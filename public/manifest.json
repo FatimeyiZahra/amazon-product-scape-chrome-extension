@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Scrape data by Zahra",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "icons": {
+    "32": "logo.png"
+  }
+}
